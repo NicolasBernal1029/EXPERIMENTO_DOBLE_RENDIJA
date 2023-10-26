@@ -75,10 +75,12 @@ Se hará una implementación sencilla en python, que es la siguiente:
 
 
 el resultado es un vector que dice cuales son las probabilidades de que la particula esté en cada posición, en dos click de tiempo y es:
+
 [![Captura-de-pantalla-2023-10-26-a-la-s-12-31-27-a-m.png](https://i.postimg.cc/Zqr9NJpL/Captura-de-pantalla-2023-10-26-a-la-s-12-31-27-a-m.png)](https://postimg.cc/8FzPQQyF)
 
 
 Se puede afirmar que la probabilidad más alta se encuentra en el centro del patrón mencionado anteriormente, y que el resto de probabilidades son iguales.
+
 [![Captura-de-pantalla-2023-10-26-a-la-s-12-31-43-a-m.png](https://i.postimg.cc/J7TsZ6DS/Captura-de-pantalla-2023-10-26-a-la-s-12-31-43-a-m.png)](https://postimg.cc/SjMQpGGG)
 
 ## INTEGRANTES 
