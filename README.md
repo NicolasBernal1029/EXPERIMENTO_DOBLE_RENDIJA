@@ -31,6 +31,11 @@ Una caja pequeña <br>
 
 ## EXPLICACIÓN
 [![Alt text](https://img.youtube.com/vi/3dSgFtJQbgo/0.jpg)](https://www.youtube.com/watch?v=3dSgFtJQbgo)
+[![Alt text](https://img.youtube.com/vi/jw-emyKQNLc/0.jpg)](https://www.youtube.com/watch?v=jw-emyKQNLc)
+[![Alt text](https://img.youtube.com/vi/mc9RcqHUECs/0.jpg)](https://www.youtube.com/watch?v=mc9RcqHUECs)
+
+
+
 
 
 ### El experimento de la doble rendija para la luz
