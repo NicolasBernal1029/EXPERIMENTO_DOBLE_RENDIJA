@@ -19,10 +19,6 @@ Una caja pequeña <br>
 ## PROCEDIMIENTO 
 1. Forrar por dentro la caja con cartulina negra para hacer que se vea más oscuro. 
 2. Hacer un hueco a la caja con ayuda del bisturí, este va a servir para poner colocar el láser.
-
-
-
-
 3. Para crear la rendija vamos a medir el ancho y largo de la caja para recortar de ese tamaño la cartulina, luego a esta se le hace un hueco en el medio en donde va a ir el aluminio, esto con el fin de que tenga más soporte.
 4. El aluminio se hace a la medida del hueco y a este se le hace dos cortes pequeños en línea, pueden las líneas estar a una distancia de 0.1 mm.
 5. Luego se coloca el láser y se alinea lo mejor posible a las dos líneas.
@@ -73,16 +69,22 @@ Al mismo tiempo se hicieron otros experimentos con partículas que llegaron a la
 
 Para este experimento se simula un sistema probabilístico con dos rendijas donde se trata de observar un patrón de interferencia que es generado por el paso de la luz del láser a través de las rendijas donde las probabilidades de impacto en el fondo de la caja, estan representadas en la siguiente matriz: 
 
+[![matriz.jpg](https://i.postimg.cc/8CTMkFrS/matriz.jpg)](https://postimg.cc/mP6t8gwX)
+
 Se hará una implementación sencilla en python, que es la siguiente:
 
+
 el resultado es un vector que dice cuales son las probabilidades de que la particula esté en cada posición, en dos click de tiempo y es:
+[![Captura-de-pantalla-2023-10-26-a-la-s-12-31-27-a-m.png](https://i.postimg.cc/Zqr9NJpL/Captura-de-pantalla-2023-10-26-a-la-s-12-31-27-a-m.png)](https://postimg.cc/8FzPQQyF)
 
 
 Se puede afirmar que la probabilidad más alta se encuentra en el centro del patrón mencionado anteriormente, y que el resto de probabilidades son iguales.
+[![Captura-de-pantalla-2023-10-26-a-la-s-12-31-43-a-m.png](https://i.postimg.cc/J7TsZ6DS/Captura-de-pantalla-2023-10-26-a-la-s-12-31-43-a-m.png)](https://postimg.cc/SjMQpGGG)
 
 ## INTEGRANTES 
-> David Salomon Baena [DSBAENAR](https://github.com/DSBAENAR)
+> Nicolas Felipe Bernal Gallo
 >
-> Juliana Castro [Juc28](https://github.com/Juc28)
+> Juan Daniel Bogota Fuentes
 >
-> Lina Sánchez [lj-sanchez](https://github.com/lj-sanchez)
+> Jeisson David Sanchez Gomez
+> 
